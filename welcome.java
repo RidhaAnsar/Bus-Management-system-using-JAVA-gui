@@ -10,7 +10,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-public final class bus_system extends javax.swing.JFrame {
+public final class welcome extends javax.swing.JFrame {
 public bus_system () {
 initComponents();
 connect();
